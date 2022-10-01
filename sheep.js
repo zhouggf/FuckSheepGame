@@ -16,6 +16,6 @@
 hostname = *.easygame2021.com
 */
 
-path =  "maps/(.*)?map_id=80001"
+path =  "maps/(.*)? levelKey=80001"
 
 $done({path});
